@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="ODataAgent" width="700">
+
 # 🔗 ODataAgent
 
 **Turn any OData service into an AI-queryable tool — zero boilerplate.**
